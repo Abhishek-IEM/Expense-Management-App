@@ -10,7 +10,6 @@ A full-stack Expense Management System built with the MERN stack that allows use
 - 📊 Real-time Expense Charts (Chart.js)
 - 📁 Add, Edit, Delete & Filter Expenses
 - 🔎 Filter by Date & Category
-- 📈 Monthly/Category-wise Visual Reports
 - ⚙️ RESTful APIs
 - 🔒 Secure Protected Routes
 
